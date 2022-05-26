@@ -8,6 +8,7 @@ It is an artificial eye apparatus, capable of unrestricted movement in X and Y a
 ## Plattform
 
 The device is based on Arduino UNO with a CNC shield and two stepper motor drivers
+![RELAY](pictures/side_back.JPG)
 
 ## Build
 

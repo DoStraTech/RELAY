@@ -5,7 +5,7 @@ It is an artificial eye apparatus, capable of unrestricted movement in X and Y a
 
 This git is the software repository for the RELAY project. It also includes the hardware list necessary to build your own RELAY.
 
-*If you find it useful, please quote the **RELAY Paper** (Open Access) 
+*If you find it useful, please cite the **RELAY Paper** (Open Access) 
 (Paper in submission process, will be updated soon)*
 
 The paper also contains the precision and accuracy results and long term exposure laser patterns. 

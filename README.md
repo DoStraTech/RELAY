@@ -31,7 +31,7 @@ The full Bill of Materials used:
 - Aluminium sheet metal
 - Aluminium baseplate
 - 2x Optical tilting adapter
-- 2x durable plastic for motor shaft-Joystick adapters
+- 2x durable nylon plastic for motor shaft-Joystick adapters (e.g., from mini-servo adapter heads or 3D printing)
 
 ## Build
 

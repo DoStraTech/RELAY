@@ -5,11 +5,11 @@ It is an artificial eye apparatus, capable of unrestricted movement in X and Y a
 
 This git is the software repository for the RELAY project. It also includes the hardware list necessary to build your own RELAY.
 
-*If you find it useful, please quote the **RELAY Paper** 
+*If you find it useful, please quote the **RELAY Paper** (Open Access) 
 (Paper in submission process, will be updated soon)*
 
-The paper (Open Access) also contains the precision and accuracy results and long term exposure laser patterns. We also have an **OSF Repository** with additional results and pictures. 
-
+The paper also contains the precision and accuracy results and long term exposure laser patterns. 
+We also have an **[OSF Repository](https://osf.io/xvj62/ "OSF Repository")** with additional results and pictures aswell as the MATLAB code. 
 
 ![RELAY](pictures/front.jpg)
 ## Platform

@@ -7,7 +7,9 @@ This git is the software repository for the RELAY project. It also includes the 
 
 *If you find it useful, please cite the **RELAY Paper** (Open Access) 
 (Paper in submission process, will be updated soon)*
-A Pre-Print is already available https://doi.org/10.48550/arXiv.2206.01327
+
+A Pre-Print with results is already available https://doi.org/10.48550/arXiv.2206.01327
+
 You can cite this Repo at https://doi.org/10.5281/zenodo.6591909
 
 The paper also contains the precision and accuracy results and long term exposure laser patterns. 
